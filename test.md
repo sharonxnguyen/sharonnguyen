@@ -15,4 +15,4 @@ Prosciutto chicken boudin sirloin, chislic pork chop doner leberkas pancetta ten
 
 Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
 
-![]:(https://baconipsum.com/wp-content/themes/baconipsum-custom-theme-v2/images/bacon-ipsum-banner1.jpg) 
+![](https://baconipsum.com/wp-content/themes/baconipsum-custom-theme-v2/images/bacon-ipsum-banner1.jpg) 
