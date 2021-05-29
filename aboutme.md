@@ -6,9 +6,9 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Sharon Nguyen. I have the following qualities:
 
-🔍 studying statistics and data science in school 
-🌱 learning creativity and empathy in life 
-🐳 enjoys movies, tv shows (american tv, kdrama, anime), YouTube, fashion, beauty
+🔍 studying statistics and data science in school <br \>
+🌱 learning creativity and empathy in life <br \>
+🐳 enjoys movies, tv shows (american tv, kdrama, anime), YouTube, fashion, beauty<br \>
 
 What else do you need?
 
