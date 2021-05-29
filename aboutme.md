@@ -4,10 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sharon Nguyen. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+🔍 studying statistics and data science in school 
+🌱 learning creativity and empathy in life 
+🐳 enjoys movies, tv shows (american tv, kdrama, anime), YouTube, fashion, beauty
 
 What else do you need?
 
