@@ -14,12 +14,12 @@ author: Sharon Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Contact: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-  Test: "test/"
+  Media: "Media/"
 
 # --- Logo --- #
 
